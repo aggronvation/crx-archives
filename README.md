@@ -1,4 +1,6 @@
 # crx-archives
+# **If you're viewing this on GitHub pages, wrong place! Return to the [crx-archives](https://github.com/tracertokenn/crx-archives) repo or [Panthera](https://tracertokenn.github.io/panthera/) (where I centralize updates for this project)!
+
 Thank you for checking out this project. If anything doesn't work on your old laptop, it's likely because it's a Manifest V3 extension. Don't worry, send me a message on one of my contacts so I can help and possibly downgrade the extension. If I deliberately scout for a Manifest V2 extension version, I will note so. Files that were scouted will be like "your-extension-manifest-v2.crx".
 
 
